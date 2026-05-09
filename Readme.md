@@ -1,4 +1,4 @@
-📊** Kabir Retail Solutions – Sales Analysis**
+📊Kabir Retail Solutions – Sales Analysis
 
 **Project Overview**
 
@@ -16,9 +16,9 @@ Git & GitHub (Version Control & Submission)
 📂 Repository Structure kabir-sales-analysis
 
 # README.md
-# data/                # Raw dataset (from Git clone)
-# analysis.xlsx        # Excel analysis file (optional)
-# images/              # Screenshots of tables & formulas
+# data              Raw dataset (from Git clone)
+# analysis.xlsx     Excel analysis file (optional)
+# images            Screenshots of tables & formulas
 📈 **Executive Summary**
 Sales performance from 2010 to 2012 shows a steady increase in both quantity sold and total revenue, indicating positive business growth. Overall, the company demonstrates strong performance and is well-positioned for expansion in 2013.
 
